@@ -5,7 +5,7 @@ This application allows you to view, filter, add, and delete transactions.
 Clone the repository and run npm install or yarn install to install the dependencies. Run npm start or yarn start to start the development server. The application will be available at http://localhost:3000/.
 
 ```
-git clone 
+git clone git@github.com:pama7786/flatabank.git
 
 ```
 
