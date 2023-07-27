@@ -37,6 +37,8 @@ The application uses a mock API endpoint that returns a list of transactions. Th
 MIT License Copyright (c) 2023 Abdirahman diss 
 
 ## Author
-This app was created and coded by Abdirahman diis ("
+This app was created and coded by Abdirahman diis ("https://github.com/pama7786/flatabank)
+
+
 Enjoy!
 
